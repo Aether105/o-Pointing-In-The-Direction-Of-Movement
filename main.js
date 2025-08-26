@@ -1,4 +1,4 @@
-import { Application, Graphics, Text, Container } from "./node_modules/pixi.js/dist/pixi.mjs";
+import { Application, Graphics, Text, Container } from 'https://cdn.jsdelivr.net/npm/pixi.js@8.x/dist/pixi.mjs';
 
 (async () => {
     const app = new Application();
